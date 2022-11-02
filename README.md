@@ -1,2 +1,5 @@
 # sort_report
-sort_report from CS2 at Kent State University
+C++ sort_report from CS2  
+
+Nathan Fleet  
+Kent State University
